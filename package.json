@@ -1,6 +1,7 @@
 {
     "name": "sysjs-transform-test",
     "version": "1.0.0",
+    "description": "test comparing out of @babel/plugin-transform-modules-systemjs vs babel-plugin-transform-es2015-modules-systemjs",
     "author": "Simon Gilligan",
     "devDependencies": {
         "@babel/core": "^7.1.2",
